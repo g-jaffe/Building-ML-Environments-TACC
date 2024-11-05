@@ -17,8 +17,8 @@ Contents
    :maxdepth: 2
    :caption: Contents:
 
-   ../section1/00.overview
-   ../section2/overview
+   section1/00.overview
+   section2/overview
 
 
 Indices and tables
