@@ -1,0 +1,16 @@
+Welcome to Section 1!
+=============================
+
+[Section Description]
+
+**Objectives for this section:**
+
+  * Objective 1
+  * Objective 2
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Subsections:
+
+   01.subsection1
+   02.subsection2
