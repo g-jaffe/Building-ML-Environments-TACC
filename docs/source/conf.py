@@ -1,10 +1,12 @@
 # Configuration file for the Sphinx documentation builder.
 
+import sphinx_rtd_theme
+
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Building ML Environments at TACC'
+copyright = '2024, Texas Advanced Computing Center'
+author = 'Texas Advanced Computing Center'
 
 release = '0.1'
 version = '0.1.0'
@@ -26,6 +28,9 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+# TACC logo
+html_logo = 'images/TACC-White-No-Mask.png'
 
 # -- Options for HTML output
 
