@@ -18,7 +18,7 @@ Contents
    :caption: Contents:
 
    section1/00.overview
-   section2/overview
+   section2/00.overview
 
 
 Indices and tables
